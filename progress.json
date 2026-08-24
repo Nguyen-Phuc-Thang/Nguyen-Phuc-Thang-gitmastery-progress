@@ -314,5 +314,14 @@
       "Good job performing a merge squash!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1787556131.801559,
+    "completed_at": 1787556133.246443,
+    "comments": [
+      "Good job performing a merge squash!"
+    ],
+    "status": "Completed"
   }
 ]
